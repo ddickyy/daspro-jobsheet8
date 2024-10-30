@@ -16,6 +16,7 @@ public class Triangle08 {
                 j++;
             }
             i++;
-        }
+            System.out.println();
+        } 
     }
 }

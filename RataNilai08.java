@@ -4,7 +4,7 @@ public class RataNilai08 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        int totalNilai, j = 1, nilaiMhs = 0, rataNilai;
+        float totalNilai, j = 1, nilaiMhs = 0, rataNilai;
 
         int i = 1;
         while (i<=5) {
